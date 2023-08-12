@@ -1,5 +1,5 @@
 # SAFESPEC
-Safe spectator plugin by SwagMX
+Safe spectator plugin by MattMX
 
 ## Installation
 
