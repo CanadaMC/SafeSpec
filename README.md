@@ -1,11 +1,13 @@
 # SAFESPEC
-Safe spectator plugin by MattMX
+Safe spectator plugin by CanadaMC & MattMX
 
 ## Installation
 
-Put the jar in ur server folder init lad
+Install the latest build and drag it into your plugins folder
 
 ## Usage
+
+This plugin allows a user to enter spectator mode, but once they leave they are TPED back to where they first entered
 
 ```yaml
 /s - Puts you in spectator, disallowing commands
@@ -23,4 +25,4 @@ safespec.spec: Permissions to /s command
 safespec.list: Permissions to /s list
 safespec.reload: Permissions to /s reload
 ```
-[WEBSITE](https://www.mattmx.com/)
+[WEBSITE](https://discord.gg/canadamc)
